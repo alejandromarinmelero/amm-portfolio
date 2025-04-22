@@ -42,7 +42,7 @@ export const welcomeAnimation = () => {
                 delay: 1,
             });
 
-            ScrollTrigger.refresh();
+            ScrollTrigger.refresh();clear
         }
     });
 
